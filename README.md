@@ -1,5 +1,5 @@
 # My Code Fellows Reading Notes
-*My reading notes for CodeFellows*
+*My reading notes for Code Fellows*
 
 Hi my name is Todd. 
 
