@@ -11,4 +11,4 @@ Growth Mindset means to me
 - List
 - List
 
-Link to Github: https://github.com/Todd75
+Link to Github: [Link to my Github Page](https://github.com/Todd75)
