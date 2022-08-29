@@ -1,2 +1,14 @@
-# reading-notes
-My reading notes for CodeFellows
+# My Code Fellows Reading Notes
+*My reading notes for CodeFellows*
+
+Hi my name is Todd. 
+
+Growth Mindset means to me
+
+3 Reminders to keep myself in the growth mindset:
+
+- List
+- List
+- List
+
+Link to Github: https://github.com/Todd75
