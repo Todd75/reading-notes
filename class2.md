@@ -1,2 +1,2 @@
-# Class 2 Reading Notes 8/29
+# Class 102 Reading Notes 8/29
 ### *Table of Contents*
