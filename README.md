@@ -13,4 +13,4 @@ Growth Mindset means to me
 
 Link to Github: [Link to my Github Page](https://todd75.github.io/reading-notes/)
 
-Link to Notes: [Notes](https://todd75.github.io/reading-notes/class2)
+Link to Notes: [My Notes](https://todd75.github.io/reading-notes/class2)
