@@ -1,7 +1,7 @@
 # My Code Fellows Reading Notes
 *My reading notes for Code Fellows*
 
-Hi my name is ~~Tod~~ oops I meant Todd. 
+Hi my name is ~~Tod~~ oops I meant --Todd--. 
 
 Growth Mindset means to <sub>me</sub>
 
