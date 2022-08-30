@@ -3,7 +3,7 @@
 
 Hi my name is ~~Tod~~ oops I meant Todd. 
 
-Growth Mindset means to me
+Growth Mindset means to <sub>me</sub>
 
 3 Reminders to keep myself in the growth mindset:
 
