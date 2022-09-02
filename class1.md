@@ -55,6 +55,11 @@ To order your list, precede each line with a number.
 2. James Monroe
 3. John Quincy Adams
 
+Hiding Content:
+You can tell GitHub to hide content from the rendered Markdown by placing the content in an HTML comment.
+
+<!-- This content will not appear in the rendered Markdown -->
+
 FootNotes: 
 You can add footnotes to your content by using this bracket syntax:
 
@@ -71,7 +76,4 @@ You can also use words, to fit your writing style more closely[^note].
     Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
     This footnote also has been made with a different syntax using 4 spaces for new lines.
 
-Hiding Content:
-You can tell GitHub to hide content from the rendered Markdown by placing the content in an HTML comment.
 
-<!-- This content will not appear in the rendered Markdown -->
