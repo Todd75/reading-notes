@@ -1,3 +1,3 @@
-# Program: 102 
+# Course: 102 
 
 
