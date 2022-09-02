@@ -1,4 +1,4 @@
-# Course 102 Class 2 Reading Notes
+# Course 102 Class 2 "The Coder's Computer" Reading Notes
 
 #### *Class Two*
 
