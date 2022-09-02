@@ -48,7 +48,7 @@ You can make an unordered list by preceding one or more lines of text with - or 
 - George Washington
 - John Adams
 - Thomas Jefferson
-- 
+
 To order your list, precede each line with a number.
 
 1. James Madison
