@@ -21,7 +21,7 @@ A **relative path** is a file or directory location relative to where we current
 A **Absolute Path** is a file or directory location in realtion to the root of the file system
 
 
-#### *MarkDown*
+#### MarkDown
 *Images*
 You can display an image by adding ! and wrapping the alt text in [ ]. Then wrap the link for the image in parentheses ().
 
