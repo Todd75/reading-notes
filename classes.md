@@ -1,3 +1,3 @@
-# Class: 102 
+# Program: 102 
 
 
