@@ -13,4 +13,4 @@ Growth Mindset means to <sub>me</sub> that if continue to learn through effort i
 
 Link to Github: [My Github Page](https://todd75.github.io/reading-notes/)
 
-Link to Notes: [My Notes](https://todd75.github.io/reading-notes/classes)
+Link to Notes: [My Notes](https://todd75.github.io/reading-notes/courses)
