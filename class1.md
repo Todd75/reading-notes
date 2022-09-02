@@ -1,6 +1,7 @@
-# Class 1 Course 102 Reading Notes 8/29
-### *Table of Contents*
-#### *Day One*
+# Course 102 Class 1 Reading Notes
+
+#### *Class One*
+
 pwd means print working directory also known as present working directory
 
 ls means list and shows folders and directories that are available
