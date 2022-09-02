@@ -22,7 +22,7 @@ A **Absolute Path** is a file or directory location in realtion to the root of t
 
 
 #### MarkDown
-**Images**
+**Images:**
 You can display an image by adding ! and wrapping the alt text in [ ]. Then wrap the link for the image in parentheses ().
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
