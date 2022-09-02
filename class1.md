@@ -1,4 +1,4 @@
-# Course 102 Class 1 Reading Notes
+# Course 102 Class 1 "Learning Markdown" Reading Notes
 
 #### *Class One*
 
