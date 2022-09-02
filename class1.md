@@ -36,14 +36,14 @@ All bold and italic	*** ***		***All this text is important***
 Subscript	<sub> </sub>		<sub>This is a subscript text</sub>	This is a subscript text
 Superscript	<sup> </sup>		<sup>This is a superscript text</sup>	This is a superscript text
 
-Links:
+**Links:**
 You can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ). You can also use the keyboard shortcut Command+K to create a link. When you have text selected, you can paste a URL from your clipboard to automatically create a link from the selection.
 
 You can also create a Markdown hyperlink by highlighting the text and using the keyboard shortcut Command+V. If you'd like to replace the text with the link, use the keyboard shortcut Command+Shift+V.
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
-Lists:
+**Lists:**
 You can make an unordered list by preceding one or more lines of text with - or *.
 - George Washington
 - John Adams
@@ -55,12 +55,12 @@ To order your list, precede each line with a number.
 2. James Monroe
 3. John Quincy Adams
 
-Hiding Content:
+**Hiding Content:**
 You can tell GitHub to hide content from the rendered Markdown by placing the content in an HTML comment.
 
 <!-- This content will not appear in the rendered Markdown -->
 
-FootNotes: 
+**FootNotes:**
 You can add footnotes to your content by using this bracket syntax:
 
 Here is a simple footnote[^1].
