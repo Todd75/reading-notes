@@ -1,4 +1,4 @@
-# My Code Fellows Reading Notes
+# My Code Fellows Reading Notes Course 102
 *My reading notes for Code Fellows*
 
 Hi my name is ~~Tod~~ oops I meant **Todd**. 
@@ -13,4 +13,4 @@ Growth Mindset means to <sub>me</sub> that if continue to learn through effort i
 
 Link to Github: [My Github Portfolio Page](https://github.com/Todd75?tab=repositories)
 
-Link to Notes: [My Notes](https://todd75.github.io/reading-notes/courses)
+Link to Notes: [My Notes for Course 102](https://todd75.github.io/reading-notes/courses)
