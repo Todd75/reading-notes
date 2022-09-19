@@ -20,4 +20,4 @@
 
 - [Class 9 "Career Coaching" Notes](https://github.com/Todd75/reading-notes/blob/main/class9.md)
 
-- [Class 10 "Final Exam Thoughts" Notes](https://github.com/Todd75/reading-notes/blob/main/class10.md)
+- [Class 10 "Final Exam Thoughts"](https://github.com/Todd75/reading-notes/blob/main/class10.md)
