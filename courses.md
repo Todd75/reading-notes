@@ -1,6 +1,6 @@
 # Course: 102 
 
-### *Classes*
+### Classes:
 
 - [Class 1 "Learning Markdown" Notes](https://github.com/Todd75/reading-notes/blob/main/class1.md)
 
