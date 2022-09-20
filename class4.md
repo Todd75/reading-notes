@@ -61,13 +61,13 @@ An attribute should always have the following:
 
 **Nesting elements:** You can put elements inside other elements too — this is called nesting. If we wanted to state that our cat is very grumpy, we could wrap the word "very" in a < strong> element, which means that the word is to be strongly emphasized:
   
-<p>My cat is <strong>very</strong> grumpy.</p>
+`<p>`My cat is `<strong>`very</strong> grumpy.</p>
 
 **Note:** Anything in HTML between < !-- and --> is an HTML comment. The browser ignores comments as it renders the code. In other words, they are not visible on the page - just in the code. HTML comments are a way for you to write helpful notes about your code or logic.
-<h1>My main title</h1>
-<h2>My top level heading</h2>
-<h3>My subheading</h3>
-<h4>My sub-subheading</h4> ...Review the code to see the commands for headers.
+`<h1>`My main title</h1>
+`<h2>`My top level heading</h2>
+`<h3>`My subheading</h3>
+`<h4`>My sub-subheading</h4> ...Review the code to see the commands for headers.
 
 **Semantics:** In programming, Semantics refers to the meaning of a piece of code — for example "what effect does running that line of JavaScript have?", or "what purpose or role does that HTML element have" (rather than "what does it look like?".)
 
@@ -83,4 +83,4 @@ Some of the benefits from writing semantic markup are as follows:
 - Suggests to the developer the type of data that will be populated
 - Semantic naming mirrors proper custom element/component naming
 
-Return to the Table of Contents: [Table of Contents](https://todd75.github.io/reading-notes/courses)
+Return to the Table of Contents: [Table of Contents](https://todd75.github.io/reading-notes/)

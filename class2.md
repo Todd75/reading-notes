@@ -74,4 +74,4 @@ FILE1.txt File1.txt file1.TXT .hidden .file.txt
 
 ls -a Command is used to List the contents of a directory, including hidden files.
 
-Return to the Table of Contents: [Table of Contents](https://todd75.github.io/reading-notes/courses)
+Return to the Table of Contents: [Table of Contents](https://todd75.github.io/reading-notes/)
