@@ -49,7 +49,6 @@ File has been changed but not committed to the database
 - **Staged:**
 Flagged a file’s changed version to be committed in the next snapshot
 
-
 **Setting up a Git Repository:**
 
 **Importing:**
@@ -58,17 +57,18 @@ To import an existing project or directory into Git, follow these steps using th
 Switch to the target project’s directory
 Example:
 
-$ cd test (cd = change directory)
+$ cd test cd = change directory
 Use the git init command
 $ git init
 
 Note: At this stage, you have created a new subdirectory named .git that has the repository files. Tracking has not commenced.
 
 To start tracking these repository files, perform an initial commit by typing the following:
+
 - $ git add *.c
 - $ git add LICENSE
 - $ git commit -m “any message here”
-- 
+
 Now, your files are tracked and there’s an initial commit. We will discuss the particular commands in detail soon.
 
 **Cloning:**
@@ -88,9 +88,9 @@ $ git clone https://github.com/test mydirectory
 - Index: The area used for staging
 - Head: Points to the most recent commit
  ![Work Flow](https://blog.udemy.com/wp-content/uploads/2015/08/image036.png)
- 
- **Saving Changes**
- 
+
+### Saving Changes
+
 All files in a checked out (or working) copy of a project file are either in a tracked or untracked state.
 
   *Tracked:*
@@ -103,7 +103,8 @@ Untracked files were not in the last snapshot and do not currently reside in the
 
 *After cloning a repository, files have tracked status and are unmodified because they have been checked out but not edited.*
 
-**The Life Cycle of File Status**
+### The Life Cycle of File Status
+
 - 1.)  After you edit a file, Git flags it as modified because of changes made after the previous commit.
 - 2.)  You stage the modified file.
 - 3.)  Then, you commit staged changes.
@@ -170,4 +171,4 @@ $ git remote -v
 
 you can view all the remote URLs next to their corresponding short names.
 
-
+Return to the Table of Contents: [Table of Contents](https://todd75.github.io/reading-notes/courses)

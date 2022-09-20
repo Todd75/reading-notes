@@ -82,3 +82,5 @@ Some of the benefits from writing semantic markup are as follows:
 - Finding blocks of meaningful code is significantly easier than searching through endless divs with or without semantic or namespaced classes
 - Suggests to the developer the type of data that will be populated
 - Semantic naming mirrors proper custom element/component naming
+
+Return to the Table of Contents: [Table of Contents](https://todd75.github.io/reading-notes/courses)

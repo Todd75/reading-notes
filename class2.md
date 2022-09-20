@@ -1,6 +1,6 @@
 # Course 102 Class 2 "The Coder's Computer" Reading Notes
 
-#### *Class Two*
+## *Class Two*
 
 **Text Editor:**
 A text editor is a piece of software that you download and install on
@@ -9,20 +9,22 @@ allows you to write and manage text, especially the text that you write
 to build a web site.
 
 What features should you look for in a text editor? I would say some
-of the most important features are: 
-- code completion 
+of the most important features are:
+
+- code completion
 - syntax highlighting
 - a nice variety of themes (to reduce eye strain and fatigue)
 - the ability to choose from a healthy selection of extensions available when you need them.
 
-# LINUX IS CASE SENSITIVE
+### LINUX IS CASE SENSITIVE
+
 **Basic Linux Commands:**
 
 - pwd: Print Working Directory - ie. Where are we currently.
 - ls: List the contents of a directory.
 - cd: Change Directories - ie. move to another directory.
 
-**Paths:** 
+**Paths:**
 
 Absolute paths: specify a location (file or directory) in relation to the root directory. You can identify them easily as they always begin with a forward slash ( / )
 
@@ -46,9 +48,7 @@ Ok, the first thing we need to appreciate with linux is that under the hood, eve
 - file.txt - a plain text file.
 - file.png, file.gif, file.jpg - an image.
 
- 
-
-**Spaces In Names:**
+ **Spaces In Names:**
 Spaces in file and directory names are perfectly valid but we need to be a little careful with them. As you would remember, a space on the command line is how we seperate items. They are how we know what is the program name and can identify each command line argument. If we wanted to move into a directory called Holiday Photos for example the following would not work. $ cd Holiday Photos
 
 What happens is that Holiday Photos is seen as two command line arguments. cd moves into whichever directory is specified by the first command line argument only. To get around this we need to identify to the terminal that we wish Holiday Photos to be seen as a single command line argument. There are two ways to go about this, either way is just as valid.
@@ -73,3 +73,5 @@ ls -a Documents
 FILE1.txt File1.txt file1.TXT .hidden .file.txt
 
 ls -a Command is used to List the contents of a directory, including hidden files.
+
+Return to the Table of Contents: [Table of Contents](https://todd75.github.io/reading-notes/courses)
