@@ -28,13 +28,13 @@ You can display an image by adding ! and wrapping the alt text in [ ]. Then wrap
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 Style Syntax Keyboard shortcut Example Output
-Bold ** ** or __ __	Command+B (Mac) or Ctrl+B (Windows/Linux) **This is bold text** This is bold text
-Italic * * or __ __ Command+I (Mac) or Ctrl+I (Windows/Linux) *This text is italicized* This text is italicized
-Strikethrough	~~ ~~ ~~This was mistaken text~~	This was mistaken text
-Bold and nested italic ** ** and _ _	
+Bold `** **` or `__ __` Command+B (Mac) or Ctrl+B (Windows/Linux) **This is bold text** This is bold text
+Italic `* *` or `__ __`Command+I (Mac) or Ctrl+I (Windows/Linux) *This text is italicized* This text is italicized
+Strikethrough ~~ ~~ ~~This was mistaken text~~ This was mistaken text
+Bold and nested italic `** **` and `_ _`
 All bold and italic ***All this text is important***
-Subscript	<sub> </sub>		<sub>This is a subscript text</sub> This is a subscript text
-Superscript	<sup> </sup>		<sup>This is a superscript text</sup> This is a superscript text
+Subscript `<sub> </sub> <sub>`This is a subscript text</sub> This is a subscript text
+Superscript `<sup> </sup> <sup>`This is a superscript text</sup> This is a superscript text
 
 **Links:**
 You can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ). You can also use the keyboard shortcut Command+K to create a link. When you have text selected, you can paste a URL from your clipboard to automatically create a link from the selection.
@@ -61,24 +61,22 @@ You can tell GitHub to hide content from the rendered Markdown by placing the co
 
 <!-- This content will not appear in the rendered Markdown -->
 
-**Style	Syntax:**
+**Style Syntax:**
 
-Keyboard shortcut	Example	Output
-Bold	** ** or __ __	Command+B (Mac) or Ctrl+B (Windows/Linux)	**This is bold text**	This is bold text
+Keyboard shortcut Example Output
+Bold `** **` or `__ __` Command+B (Mac) or Ctrl+B (Windows/Linux) **This is bold text** This is bold text
 
-Italic	* * or _ _     	Command+I (Mac) or Ctrl+I (Windows/Linux)	*This text is italicized*	This text is italicized
+Italic `* *` or `_ _`     Command+I (Mac) or Ctrl+I (Windows/Linux) *This text is italicized* This text is italicized
 
-Strikethrough	~~ ~~		~~This was mistaken text~~	This was mistaken text
+Strikethrough	`~~ ~~` ~~This was mistaken text~~ This was mistaken text
 
-Bold and nested italic	** ** and _ _		**This text is _extremely_ important**	This text is extremely important
+Bold and nested italic `** **` and `_ _` **This text is extremely important** This text is extremely important
 
-All bold and italic	*** ***		***All this text is important***	All this text is important
+All bold and italic `*** ***` ***All this text is important*** All this text is important
 
-Subscript	<sub> </sub>		<sub>This is a subscript text</sub>	This is a subscript text
+Subscript `<sub> </sub> <sub>`This is a subscript text</sub> This is a subscript text
 
-Superscript	<sup> </sup>		<sup>This is a superscript text</sup>	This is a superscript text
-
-
+Superscript `<sup> </sup> <sup>`This is a superscript text</sup This is a superscript text
 
 **FootNotes:**
 You can add footnotes to your content by using this bracket syntax:
