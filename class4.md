@@ -1,3 +1,5 @@
+# Reading Notes
+
 **Wireframing:**
 
 Is a practice used by UX designers which allows them to define and plan the information hierarchy of their design for a website, app, or product. This process focuses on how the designer or client wants the user to process information on a site, based on the user research already performed by the UX design team.
@@ -28,7 +30,8 @@ Here are a number of ways different designers can structure the process from des
 2. **Confidence:** Ease of navigation through your site and clear calls-to-action increase user confidence in your brand. If your site page is unpredictable, or has buttons or boxes in unexpected places user confidence diminishes. A lot of this information can already be organized at the wireframing stage. Using familiar navigational processes and placing buttons in commonly-used and intuitive positions, user confidence will soar–and that’s before you’ve even gotten around to thinking about colors and styles.
 3. **Simplicity is key:** Too much information, copy, or links, can be distracting to the user and will have a detrimental affect on your users’ ability to achieve their goals. You want your users to be able to find their way through your site with as little extra ‘fluff’ as possible, to the elements that map to their most significant goals in a given context. Your wireframe should be a visual guide to the framework of your site and how it will be navigated. Attractiveness at this stage is not a consideration. Once you’ve decided who your product or service is for, you can begin laying out the information they are looking for in an intuitive and natural way that is not only familiar to them as users of this kind of service, but that also guides them towards the conversion point or otherwise helps them to achieve their goals in the interaction. By presenting your information in this way, you are aligning both the business goals of your site with the needs of the customer.
 
-# HTML:
+## HTML
+
 (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions. HTML is a markup language that defines the structure of your content. HTML consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way. The enclosing tags can make a word or image hyperlink to somewhere else, can italicize words, can make the font bigger or smaller, and so on.
 
 **Anatomy of an HTML element:**

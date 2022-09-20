@@ -1,6 +1,6 @@
 # Course 102 Class 1 "Learning Markdown" Reading Notes
 
-#### *Class One*
+## *Class One*
 
 pwd means print working directory also known as present working directory
 
@@ -20,21 +20,21 @@ A **relative path** is a file or directory location relative to where we current
 
 A **Absolute Path** is a file or directory location in realtion to the root of the file system
 
+## MarkDown
 
-#### MarkDown
 **Images:**
 You can display an image by adding ! and wrapping the alt text in [ ]. Then wrap the link for the image in parentheses ().
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
-Style	Syntax	Keyboard shortcut	Example	Output
-Bold	** ** or __ __	Command+B (Mac) or Ctrl+B (Windows/Linux)	**This is bold text**	This is bold text
-Italic	* * or _ _     	Command+I (Mac) or Ctrl+I (Windows/Linux)	*This text is italicized*	This text is italicized
+Style Syntax Keyboard shortcut Example Output
+Bold ** ** or __ __	Command+B (Mac) or Ctrl+B (Windows/Linux) **This is bold text** This is bold text
+Italic * * or __ __ Command+I (Mac) or Ctrl+I (Windows/Linux) *This text is italicized* This text is italicized
 Strikethrough	~~ ~~		~~This was mistaken text~~	This was mistaken text
 Bold and nested italic	** ** and _ _	
 All bold and italic	*** ***		***All this text is important***
-Subscript	<sub> </sub>		<sub>This is a subscript text</sub>	This is a subscript text
-Superscript	<sup> </sup>		<sup>This is a superscript text</sup>	This is a superscript text
+Subscript	<sub> </sub>		<sub>This is a subscript text</sub> This is a subscript text
+Superscript	<sup> </sup>		<sup>This is a superscript text</sup> This is a superscript text
 
 **Links:**
 You can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ). You can also use the keyboard shortcut Command+K to create a link. When you have text selected, you can paste a URL from your clipboard to automatically create a link from the selection.
@@ -45,6 +45,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 **Lists:**
 You can make an unordered list by preceding one or more lines of text with - or *.
+
 - George Washington
 - John Adams
 - Thomas Jefferson
@@ -97,5 +98,3 @@ You can also use words, to fit your writing style more closely[^note].
 Styling text
 
 You can indicate emphasis with bold, italic, strikethrough, subscript, or superscript text in comment fields and .md files.
-
-
