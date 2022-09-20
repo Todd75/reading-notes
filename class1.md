@@ -97,4 +97,4 @@ Styling text
 
 You can indicate emphasis with bold, italic, strikethrough, subscript, or superscript text in comment fields and .md files.
 
-Return to the Table of Contents: [Table of Contents](https://todd75.github.io/reading-notes/README)
+Return to the Table of Contents: [Table of Contents](https://todd75.github.io/reading-notes/)
