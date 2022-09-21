@@ -42,16 +42,16 @@ For a specific example, let's go back to the Backgrounds and Borders module — 
 - Internal CSS
 - Inline CSS
 
-### External CSS
+*External CSS*
 
 With an external style sheet, you can change the look of an entire website by changing just one file! Each HTML page must include a reference to the external style sheet file inside the `<link>` element, inside the head section. An external style sheet can be written in any text editor, and must be saved with a .css extension.
 The external .css file should not contain any HTML tags.
 
-### Internal CSS
+*Internal CSS*
 
 An internal style sheet may be used if one single HTML page has a unique style. The internal style is defined inside the `<style>` element, inside the head section.
 
-### Inline CSS
+*Inline CSS*
 
 An inline style may be used to apply a unique style for a single element. To use inline styles, add the style attribute to the relevant element. The style attribute can contain any CSS property.
 
@@ -82,3 +82,13 @@ A CSS comment is placed inside the `<style>` element, and starts with `/* and en
 ## HTML and CSS Comments
 
 From the HTML tutorial, you learned that you can add comments to your HTML source by using the `<!--...-->` syntax. You can use a combination of both within your code.
+
+The `color` property specifies the color of text.
+Use [CSS Color Values](https://www.w3schools.com/cssref/css_colors_legal.asp) to see the options.
+
+Tip: Use a background color combined with a text color that makes the text easy to read.
+
+**initial:** Sets this property to its default value.
+
+**inherit:** Inherits this property from its parent element.
+
