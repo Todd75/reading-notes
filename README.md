@@ -1,6 +1,6 @@
 # Todd Wolden
 
-Hello, my name is Todd and I am a veteran of the US Army.  
+Hello, my name is _Todd_ and I am a veteran of the US Army.  
 
 Link to Github: [My Github Portfolio Page](https://github.com/Todd75)
 
