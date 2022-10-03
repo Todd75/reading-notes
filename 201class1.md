@@ -45,12 +45,31 @@ _Operators:_ Mathmatecial symbols that produce a result based on tw or more inpu
 
 _Functions:_ Are a way of repackaging code you want to resue or recall later. The use of functions saves time and helps keep the code clean.
 
+## Intro to HTML
 
-**Questions Related to This Reading:**
+HTML(HyperText Markup Language) is a markup language that tells web browsers how to structure the web page you are viewing.
+
+The HTML Element is made up an opening tag, attributes, content, and a closing tag. 
+
+**JavaScript running order:** When the browser encounters a block of JavaScript, it generally runs it in order, from top to bottom. This means that you need to be careful what order you put things in.
+
+**Dynamic versus static code:** The ability to update the display of a web page/app to show different things in different circumstances, generating new content as required whereas Static code shows the same content all the time.
+
+**Interpreted versus compiled code:** In interpreted languages you don't have to transform the code into a different form before it is ran, but in compiled languages are transformed or "compiled" into another form before that code is ran by the computer.
+
+## Things I want to know more about
+
+- The different use cases for internal vs external JavaScript on web pages.
+- When do we use inline JavaScript as it is said to be bad practice but we are shown how to do it.
+- Need more explanation on JavaScript "Script Loading" strategies and the use of "event listeners" to properly place the script in our HTML
+- Detailed explanation of async and defer and when/how to knopw to use them.
+- Comments... how do I make and leave good ones in my code? What should the comment be about? How specific about the changes I made?
+
+**Questions Related to "How the Web Works" Reading:**
 
     1. Compose a short poem describing how HTTP sends data between computers.
 
-     The browser you are using contacts the DNS and finds the website's numerical address. Then the browser uses HTTP request to contact the server asking it to send a copy of the website back to the client side. If the server approves the request it send small chunk of data called packets back to the client. The client's browser reorders the packets into the correct sequence and displays the web page.
+     The browser you are using contacts the DNS and finds the website's numerical address. Then the browser uses HTTP request to contact the server asking it to send a copy of the website back to the client side. If the server approves the request it send small chunk of data called packets back to the client. The client's browser reorders the packets into the correct sequence and displays the web page.(I am not sure this actually qualifies as a poem)
 
     2. Describe how HTML, CSS, and JS files are “parsed” in the browser.
      
@@ -67,13 +86,6 @@ _Functions:_ Are a way of repackaging code you want to resue or recall later. Th
     5. What is a Variable and why are they important in JavaScript?
      
      A variable is a container that stores values. They are imprortant because they allow you to assign a name to any vale you desire and recall it later in the code. This can save time and keep your code clean.
-
-## Intro to HTML
-
-HTML(HyperText Markup Language) is a markup language that tells web browsers how to structure the web page you are viewing.
-
-The HTML Element is made up an opening tag, attributes, content, and a closing tag. 
-
 
 **Questions related to HTML reading:**
 
@@ -101,7 +113,30 @@ The HTML Element is made up an opening tag, attributes, content, and a closing t
 
      It is used as a self-closing tag style.
 
-     
+**Miscellaneous Questions:**
 
+- What is the first step to designing a Website?
+
+   _Project ideation is the first step of designing a website._
+
+- What is the most important question to answer when designing a Website?
+
+  _Thinking about what you intend to accomplish with the website by listing the goals you are trying to attain and ordering them by importance._
+
+- Why should you use an `<h1>` element over a `<span>` element to display a top level heading?
+
+  _You shoulod use an `<h1>` element over a `<span>` element because the `<h1>` element is a semantic element tag and has preset default sizes that will make it look like a header automatically on your web page whereas the `<span>` element is just a container with no preset styling._
+
+- What are the benefits of using semantic tags in our HTML?
+
+  _The benefits are that semantic tags come with preset styling and give tags roles which helps to keep the code clean and makes styling easier/faster._
+
+- Describe 2 things that require JavaScript in the Browser?
+
+  _Two things that require JavaScript in our browser are dynamically updating content and animated images._
+
+- How can you add JavaScript to an HTML document?
+
+  _You can add JavaScript to an HTML document by using the `<script>` element this can be done internally or externally._
 
 Return to the Table of Contents: [Table of Contents](https://todd75.github.io/reading-notes/)
