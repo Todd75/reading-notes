@@ -6,7 +6,7 @@ Link to Github: [My Github Portfolio Page](https://github.com/Todd75)
 
 ## Table of Contents
 
-### Course 102 Reading Notes
+***Course 102 Reading Notes***
 
 - [102 Class One "Learning Markdown" Notes](https://github.com/Todd75/reading-notes/blob/main/class1.md)
 - [102 Class Two " The Coder's Computer" Notes](https://github.com/Todd75/reading-notes/blob/main/class2.md)
@@ -17,7 +17,7 @@ Link to Github: [My Github Portfolio Page](https://github.com/Todd75)
 - [102 Class Seven "Programming with JavaScript" Notes](https://github.com/Todd75/reading-notes/blob/main/class7.md)
 - [102 Class Eight "Operators and Loops" Notes](https://github.com/Todd75/reading-notes/blob/main/class8.md)
 
-### Course 201 Reading Notes
+***Course 201 Reading Notes***
 
 - [201 Class One ""](https://github.com/Todd75/reading-notes/blob/main/201class1.md)
 - [201 Class Two ""](https://github.com/Todd75/reading-notes/blob/main/201class2.md)
@@ -35,6 +35,6 @@ Link to Github: [My Github Portfolio Page](https://github.com/Todd75)
 - [201 Class Fourteen ""](https://github.com/Todd75/reading-notes/blob/main/201class14.md)
 - [201 Class Fifteen ""](https://github.com/Todd75/reading-notes/blob/main/201class15.md)
 
-### Course 301
+***Course 301***
 
-### Course 401
+***Course 401***
