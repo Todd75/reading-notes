@@ -174,6 +174,34 @@ If your comment contains no line breaks, it's an option to put it behind two sla
 
 **Conditionals:** Conditionals are code structures used to test if an expression returns true or not. A very common form of conditionals is the if...else statement.
 
+## Questions on JavaScript
 
+    1. What data type is a sequence of text enclosed in single quote marks?
+
+    A string is enclosed in single quotes.
+
+    2. List 4 types of JavaScript operators
+
+    Four types of operators are addition, subtraction, assignment, and strict equality.
+
+    3. Describe a real world Problem you could solve with a Function.
+
+## Second Set of Qs about JS
+
+    1. An if statement checks a __ and if it evaluates to ___, then the code block will execute.
+
+    An if statement checks a condition to test and if it evaluates to true, then the code block will execute.
+
+    2.What is the use of an else if?
+
+    It evaluates a condition and runs the code if the condition is true.
+
+    3. List 3 different types of comparison operators.
+
+    strict equality, less than, greater than, strict non-equality
+
+    4. What is the difference between the logical operator && and ||?
+
+    Both allow you you to chain together two or more expressions however, the && operators both/all expresions must be true but, with the || operator only one has to be true for the whole expression to evaluate to true.
 
 Return to the Table of Contents: [Table of Contents](https://todd75.github.io/reading-notes/)
