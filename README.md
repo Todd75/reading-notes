@@ -21,7 +21,7 @@ Link to Github: [My Github Portfolio Page](https://github.com/Todd75)
 
 - [201 Class One "Foundations of Software Development" Notes](https://github.com/Todd75/reading-notes/blob/main/201class1.md)
 - [201 Class Two "Basics of HTML, CSS & JS"](https://github.com/Todd75/reading-notes/blob/main/201class2.md)
-- [201 Class Three ""](https://github.com/Todd75/reading-notes/blob/main/201class3.md)
+- [201 Class Three "HTML Lists, Control Flow with JS, and the CSS Box Model"](https://github.com/Todd75/reading-notes/blob/main/201class3.md)
 - [201 Class Four ""](https://github.com/Todd75/reading-notes/blob/main/201class4.md)
 - [201 Class Five ""](https://github.com/Todd75/reading-notes/blob/main/201class5.md)
 - [201 Class Six ""](https://github.com/Todd75/reading-notes/blob/main/201class6.md)
