@@ -238,5 +238,6 @@ The = sign is assignment, the % is remanider assignment, the + sign is addition,
 A loop is useful when you want to force an answer to a question like password until they get it correct.
 4. Describe a real world example of when a conditional statement should be used in a JavaScript program.
 You could use an if statement for different greeting when someone visits your website based on month, time, year, or whatever you want.
+5. I got 10dog with false not showing up
 
 Return to the Table of Contents: [Table of Contents](https://todd75.github.io/reading-notes/)
