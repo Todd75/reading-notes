@@ -25,19 +25,19 @@ You can do two things on the cross axis. You can move the items individually or 
 
 ## Questions
 
-1. Flexbox is designed for one-dimensional content. Explain what this means.
+- Flexbox is designed for one-dimensional content. Explain what this means.
 
 Being one dimensional means that flexbot only deals with columns and rows.
 
-2. Explain the difference between the main axis and cross axis.
+- Explain the difference between the main axis and cross axis.
 
 The main axis is either row or column and defines the direction of how your flex items are placed in the container. Cross axis is perpendicular to the main axis.
 
-3. How can using certain properties of flexbox negatively impact accessibility?
+- How can using certain properties of flexbox negatively impact accessibility?
 
 You can use row-reverse or column-reverse and then the items on page do not match what an html screen reader will show. This can cause accesibility issues.
 
-**Why FlexBox**
+### Why FlexBox
 
 ### Specifying what elements to lay out as flexible boxes
 
@@ -58,13 +58,13 @@ To start with, we need to select which elements are to be laid out as flexible b
 
 ## Question
 
-1. What are some advantages of using flexbox over float?
+- What are some advantages of using flexbox over float?
 
-Flexbos is responsive and mobile friendly, easier to use, and the margins do not collapse.
+  Flexbos is responsive and mobile friendly, easier to use, and the margins do not collapse.
 
-2. How does this topic connect with your long term goals?
+- How does this topic connect with your long term goals?
 
-Layout is very important to my long term goals because you need a basic understanding as a starting point to be able to add or change this on a website.
+  Layout is very important to my long term goals because you need a basic understanding as a starting point to be able to add or change this on a website.
 
 ## Resources
 
