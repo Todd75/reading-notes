@@ -33,7 +33,7 @@ Link to my Github: [My Github Portfolio Page](https://github.com/Todd75)
 - [201 Class Twelve "chart.js"](201/201class12.md)
 - [201 Class Thirteen "Local Storage"](201/201class13.md)
 - [201 Class Fourteen "CSS Transforms, Transitions, and Animations"](201/201class14.md)
-- [201 Class Fourteen and 1/2 "Psychological Safety"](201/201class14aristotle.md)
+- [201 Class Fifteen "Psychological Safety"](201/201class15.md)
 
 ## Course 301 Reading Notes
 
