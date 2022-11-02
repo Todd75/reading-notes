@@ -1,8 +1,8 @@
-# Reading Notes
+# Reading Notes by Todd Wolden
 
 Hello, my name is _Todd_ and I am a software developer and veteran of the US Army.  
 
-Link to Github: [My Github Portfolio Page](https://github.com/Todd75)
+Link to my Github: [My Github Portfolio Page](https://github.com/Todd75)
 
 ## Table of Contents
 
@@ -38,5 +38,18 @@ Link to Github: [My Github Portfolio Page](https://github.com/Todd75)
 ## Course 301 Reading Notes
 
 - [301 Class One ""](301/301class1.md)
+- [301 Class Two ""](301/301class2.md)
+- [301 Class Three ""](301/301class3.md)
+- [301 Class Four ""](301/301class4.md)
+- [301 Class Five ""](301/301class5.md)
+- [301 Class Six ""](301/301class6.md)
+- [301 Class Seven ""](301/301class7.md)
+- [301 Class Eight ""](301/301class8.md)
+- [301 Class Nine ""](301/301class9.md)
+- [301 Class Ten ""](301/301class10.md)
+- [301 Class Eleven ""](301/301class11.md)
+- [301 Class Twelve ""](301/301class12.md)
+- [301 Class Thirteen ""](301/301class13.md)
+- [301 Class Fourteen ""](301/301class14.md)
 
-***Course 401***
+***Course 401 Coming Soon***
