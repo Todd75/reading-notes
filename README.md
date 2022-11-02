@@ -1,12 +1,12 @@
-# Todd Wolden
+# Reading Notes
 
-Hello, my name is _Todd_ and I am a veteran of the US Army.  
+Hello, my name is _Todd_ and I am a software developer and veteran of the US Army.  
 
 Link to Github: [My Github Portfolio Page](https://github.com/Todd75)
 
 ## Table of Contents
 
-### Course 102 Reading Notes
+## Course 102 Reading Notes
 
 - [102 Class One "Learning Markdown" Notes](https://github.com/Todd75/reading-notes/blob/main/class1.md)
 - [102 Class Two " The Coder's Computer" Notes](https://github.com/Todd75/reading-notes/blob/main/class2.md)
@@ -17,7 +17,7 @@ Link to Github: [My Github Portfolio Page](https://github.com/Todd75)
 - [102 Class Seven "Programming with JavaScript" Notes](https://github.com/Todd75/reading-notes/blob/main/class7.md)
 - [102 Class Eight "Operators and Loops" Notes](https://github.com/Todd75/reading-notes/blob/main/class8.md)
 
-### Course 201 Reading Notes
+## Course 201 Reading Notes
 
 - [201 Class One "Foundations of Software Development" Notes](https://github.com/Todd75/reading-notes/blob/main/201class1.md)
 - [201 Class Two "Basics of HTML, CSS & JS"](https://github.com/Todd75/reading-notes/blob/main/201class2.md)
@@ -34,8 +34,9 @@ Link to Github: [My Github Portfolio Page](https://github.com/Todd75)
 - [201 Class Thirteen "Local Storage"](https://github.com/Todd75/reading-notes/blob/main/201class13.md)
 - [201 Class Fourteen "CSS Transforms, Transitions, and Animations"](https://github.com/Todd75/reading-notes/blob/main/201class14.md)
 - [201 Class Fourteen and 1/2 "Psychological Safety"](201class14aristotle.md)
-- [201 Class Fifteen ""](https://github.com/Todd75/reading-notes/blob/main/201class15.md)
 
-***Course 301***
+## Course 301 Reading Notes
+
+- [301 Class One ""](301/301class1.md)
 
 ***Course 401***
