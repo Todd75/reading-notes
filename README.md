@@ -1,6 +1,6 @@
 # Reading Notes by Todd Wolden
 
-Hello, my name is _Todd_ and I am a software developer and veteran of the US Army.  
+Hello, my name is _Todd_ and I am a software developer and veteran of the US Army. These are my reading notes as I advnace through the Code Fellows Software Development Bootcamp.  
 
 Link to my Github: [My Github Portfolio Page](https://github.com/Todd75)
 
@@ -8,14 +8,14 @@ Link to my Github: [My Github Portfolio Page](https://github.com/Todd75)
 
 ## Course 102 Reading Notes
 
-- [102 Class One "Learning Markdown" Notes](https://github.com/Todd75/reading-notes/blob/main/class1.md)
-- [102 Class Two " The Coder's Computer" Notes](https://github.com/Todd75/reading-notes/blob/main/class2.md)
-- [102 Class Three "Revisions and the Cloud" Notes](https://github.com/Todd75/reading-notes/blob/main/class3.md)
-- [102 Class Four "Structure web pages with HTML" Notes](https://github.com/Todd75/reading-notes/blob/main/class4.md)
-- [102 Class Five "Design web pages with CSS" Notes](https://github.com/Todd75/reading-notes/blob/main/class5.md)
-- [102 Class Six "Dynamic web pages with JavaScript" Notes](https://github.com/Todd75/reading-notes/blob/main/class6.md)
-- [102 Class Seven "Programming with JavaScript" Notes](https://github.com/Todd75/reading-notes/blob/main/class7.md)
-- [102 Class Eight "Operators and Loops" Notes](https://github.com/Todd75/reading-notes/blob/main/class8.md)
+1. [102 Class One "Learning Markdown" Notes](https://github.com/Todd75/reading-notes/blob/main/class1.md)
+2. [102 Class Two " The Coder's Computer" Notes](https://github.com/Todd75/reading-notes/blob/main/class2.md)
+3. [102 Class Three "Revisions and the Cloud" Notes](https://github.com/Todd75/reading-notes/blob/main/class3.md)
+4. [102 Class Four "Structure web pages with HTML" Notes](https://github.com/Todd75/reading-notes/blob/main/class4.md)
+5. [102 Class Five "Design web pages with CSS" Notes](https://github.com/Todd75/reading-notes/blob/main/class5.md)
+6. [102 Class Six "Dynamic web pages with JavaScript" Notes](https://github.com/Todd75/reading-notes/blob/main/class6.md)
+7. [102 Class Seven "Programming with JavaScript" Notes](https://github.com/Todd75/reading-notes/blob/main/class7.md)
+8. [102 Class Eight "Operators and Loops" Notes](https://github.com/Todd75/reading-notes/blob/main/class8.md)
 
 ## Course 201 Reading Notes
 
