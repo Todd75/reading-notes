@@ -1,6 +1,24 @@
-# 301 Class One Reading Notes ""
+# 301 Class One Reading Notes "Introduction to React and Components"
+
+Component-based architecture focuses on the decomposition of the design into individual functional or logical components that represent well-defined communication interfaces containing methods, events, and properties. It provides a higher level of abstraction and divides the problem into sub-problems, each associated with component partitions.
+
+A component is a modular, portable, replaceable, and reusable set of well-defined functionality that encapsulates its implementation and exporting it as a higher-level interface.
+
+A component is a software object, intended to interact with other components, encapsulating certain functionality or a set of functionalities. It has an obviously defined interface and conforms to a recommended behavior common to all components within an architecture.
+
+## Questions
+
+1. What is a “component”? A component is modular, lightweight piece of code that is reusable and designed to be reduce coding time and costs.
+2. What are the characteristics of a component? reuseable, replaceable, not content specific, extensible, independant, and encapsulated
+3. What are the advantages of using component-based architecture? The components are reuseable, easier to deploy, cheaper, reliable, and make it easier to change or update your system.
+
+## Props
 
 ## Resources
+
+- [Component Based Architecture](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
+
+- [What is “Props” and how to use it in React?](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0)
 
 ## Return to the Table of Contents
 

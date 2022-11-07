@@ -37,7 +37,7 @@ Link to my Github: [My Github Portfolio Page](https://github.com/Todd75)
 
 ## Course 301 Reading Notes
 
-- [301 Class One ""](301/301class1.md)
+- [301 Class One "Introduction to React and Components"](301/301class1.md)
 - [301 Class Two ""](301/301class2.md)
 - [301 Class Three ""](301/301class3.md)
 - [301 Class Four ""](301/301class4.md)
