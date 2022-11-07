@@ -29,6 +29,10 @@ Furthermore, props data is read-only, which means that data coming from the pare
 finally render the Props Data.
 3. What is the flow of props? The flow is props can only be passed to components in one way...Parent to Child
 
+## Things I Want to Know More About
+
+I think at this point just a verbal explanation of what I read would help. I think I understand it, but haqve thought that before and been confused.
+
 ## Resources
 
 - [Component Based Architecture](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
