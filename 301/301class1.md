@@ -14,6 +14,21 @@ A component is a software object, intended to interact with other components, en
 
 ## Props
 
+React is a component-based library that divides the UI into little reusable pieces. In some cases, those components need to communicate (send data to each other) and the way to pass data between components is by using props.
+
+“Props” is a special keyword in React, which stands for properties and is being used for passing data from one component to another.
+
+But the important part here is that data with props are being passed in a uni-directional flow. (one way from parent to child)
+
+Furthermore, props data is read-only, which means that data coming from the parent should not be changed by child components.
+
+## Questions on Props
+
+1. What is “props” short for? Props is short for properties that are used for passing data from one component to another.
+2. How are props used in React? Firstly, define an attribute and its value(data), then pass it to child component(s) by using Props, and
+finally render the Props Data.
+3. What is the flow of props? The flow is props can only be passed to components in one way...Parent to Child
+
 ## Resources
 
 - [Component Based Architecture](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
