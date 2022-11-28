@@ -1,6 +1,6 @@
 # Reading Notes by Todd Wolden
 
-Hello, my name is _Todd_ and I am a software developer and veteran of the US Army. These are my reading notes as I advnace through the Code Fellows Software Development Bootcamp.  
+Hello, my name is _Todd_ and I am a software developer and veteran of the US Army. These are my reading notes as I advance through the Code Fellows Software Development Bootcamp.  
 
 Link to my Github: [My Github Portfolio Page](https://github.com/Todd75)
 
@@ -52,4 +52,5 @@ Link to my Github: [My Github Portfolio Page](https://github.com/Todd75)
 - [301 Class Thirteen "More CRUD"](301/301class13.md)
 - [301 Class Fourteen "Diversity & Inclusion in the Tech Industry"](301/301class14.md)
 - [301 Class Fifteen""]()
+
 ***Course 401 Coming Soon***
