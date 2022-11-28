@@ -50,6 +50,6 @@ Link to my Github: [My Github Portfolio Page](https://github.com/Todd75)
 - [301 Class Eleven "MongoDB and Mongoose"](301/301class11.md)
 - [301 Class Twelve "CRUD"](301/301class12.md)
 - [301 Class Thirteen "More CRUD"](301/301class13.md)
-- [301 Class Fourteen ""](301/301class14.md)
-
+- [301 Class Fourteen "Diversity & Inclusion in the Tech Industry"](301/301class14.md)
+- [301 Class Fifteen""]()
 ***Course 401 Coming Soon***
