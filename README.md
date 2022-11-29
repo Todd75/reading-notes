@@ -51,6 +51,6 @@ Link to my Github: [My Github Portfolio Page](https://github.com/Todd75)
 - [301 Class Twelve "CRUD"](301/301class12.md)
 - [301 Class Thirteen "More CRUD"](301/301class13.md)
 - [301 Class Fourteen "Diversity & Inclusion in the Tech Industry"](301/301class14.md)
-- [301 Class Fifteen""](301/301class15.md)
+- [301 Class Fifteen"Authentication"](301/301class15.md)
 
 ***Course 401 Coming Soon***
