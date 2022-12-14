@@ -6,7 +6,7 @@ Link to my Github: [My Github Portfolio Page](https://github.com/Todd75)
 
 ## Table of Contents
 
-## Course 102 Reading Notes
+## Course 102 Reading Notes "Intro to Software Development"
 
 1. [102 Class One "Learning Markdown" Notes](https://github.com/Todd75/reading-notes/blob/main/class1.md)
 2. [102 Class Two " The Coder's Computer" Notes](https://github.com/Todd75/reading-notes/blob/main/class2.md)
@@ -17,7 +17,7 @@ Link to my Github: [My Github Portfolio Page](https://github.com/Todd75)
 7. [102 Class Seven "Programming with JavaScript" Notes](https://github.com/Todd75/reading-notes/blob/main/class7.md)
 8. [102 Class Eight "Operators and Loops" Notes](https://github.com/Todd75/reading-notes/blob/main/class8.md)
 
-## Course 201 Reading Notes
+## Course 201 Reading Notes "Foundations of Software Development"
 
 - [201 Class One "Foundations of Software Development" Notes](201/201class1.md)
 - [201 Class Two "Basics of HTML, CSS & JS"](201/201class2.md)
@@ -35,7 +35,7 @@ Link to my Github: [My Github Portfolio Page](https://github.com/Todd75)
 - [201 Class Fourteen "CSS Transforms, Transitions, and Animations"](201/201class14.md)
 - [201 Class Fifteen "Psychological Safety"](201/201class15.md)
 
-## Course 301 Reading Notes
+## Course 301 Reading Notes "Intermediate Software Development"
 
 - [301 Class One "Introduction to React and Components"](301/301class1.md)
 - [301 Class Two "State and Props"](301/301class2.md)
@@ -53,7 +53,7 @@ Link to my Github: [My Github Portfolio Page](https://github.com/Todd75)
 - [301 Class Fourteen "Diversity & Inclusion in the Tech Industry"](301/301class14.md)
 - [301 Class Fifteen"Authentication"](301/301class15.md)
 
-## Course 401 Advanced Software Development Python
+## Course 401 Reading Notes "Advanced Software Development Python"
 
 - [401 Class One ""](401/401class1.md)
 - [401 Class Two ""](401/401class2.md)
