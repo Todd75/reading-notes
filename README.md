@@ -55,6 +55,7 @@ Link to my Github: [My Github Portfolio Page](https://github.com/Todd75)
 
 ## Course 401 Reading Notes "Advanced Software Development Python"
 
+- [401 PreWork "The Growth Mindset"](401/401growth.md)
 - [401 PreWork "Learn SQL"](401/401learnSQL.md)
 - [401 Class One ""](401/401class1.md)
 - [401 Class Two ""](401/401class2.md)
