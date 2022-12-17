@@ -3,22 +3,22 @@
 ## Questions
 
 Problem One
-![Problem Set One](/401/SQLproblem1.png)
+![Problem Set One](./401/SQLproblem1.png)
 
 Problem Two
-![Problem Set Two](/401/SQLproblem2.png)
+![Problem Set Two](./401/SQLproblem2.png)
 
 Problem Three
-![Problem Set Three](/401/SQLproblem3.png)
+![Problem Set Three](./401/SQLproblem3.png)
 
 Problem Four
-![Problem Set Four](/401/SQLproblem4.png)
+![Problem Set Four](./401/SQLproblem4.png)
 
 Problem Five
-![Problem Set Five](/401/SQLproblem5.png)
+![Problem Set Five](.401/SQLproblem5.png)
 
 Problem Six
-![Problem Set Six](/401/SQLproblem6.png)
+![Problem Set Six](./401/SQLproblem6.png)
 
 Problem Thirteen
 ![Problem Set Thirteen]()
