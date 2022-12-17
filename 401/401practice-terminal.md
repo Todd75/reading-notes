@@ -2,7 +2,21 @@
 
 ## Questions
 
+### The Command Line
+
+### Basic navigation
+
+### More About Files
+
+### Manual Pages
+
+### File Manipulation
+
+### Cheat Sheet
+
 ## Resources
+
+[Linux Tutorial](https://ryanstutorials.net/linuxtutorial/)
 
 ## Return to the Table of Contents
 
