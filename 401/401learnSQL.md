@@ -16,6 +16,8 @@ Problem Six
 
 ## Resources
 
+[SQL Bolt Lessons](https://sqlbolt.com/lesson/select_queries_with_joins)
+
 ## Return to the Table of Contents
 
 [Table of Contents](https://todd75.github.io/reading-notes/)
