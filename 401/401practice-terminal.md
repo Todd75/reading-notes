@@ -4,7 +4,7 @@
 
 ### The Command Line
 
-### Basic navigation
+### Basic Navigation
 
 ### More About Files
 
