@@ -24,7 +24,7 @@ O(2^N) denotes an algorithm whose growth doubles with each addition to the input
 ## Resources
 
 - [Pain and Suffering](https://codefellows.github.io/code-401-python-guide/curriculum/class-01/notes/pain_suffering)
-- [Begginers Guide to Big O](https://robbell.io/2009/06/a-beginners-guide-to-big-o-notation)
+- [Beginners Guide to Big O](https://robbell.io/2009/06/a-beginners-guide-to-big-o-notation)
 - [Season 1, Episode 6, A friendly intro to Big O Notation](https://www.codenewbie.org/basecs/8)
 -[Video: Names and Values in Python](https://www.youtube.com/watch?v=_AEJHKGk9ns)
 
