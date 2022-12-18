@@ -1,8 +1,20 @@
 # 401 Class One Reading Notes ""
 
+Big O notation is used in Computer Science to describe the performance or complexity of an algorithm. Big O specifically describes the worst-case scenario, and can be used to describe the execution time required or the space used (e.g. in memory or on disk) by an algorithm.
+
 ## Questions
 
+1. What’s your perspective? My perspective is this is very demanding work and I hope I am able to keep up with it.
+2. Why are you doing this? I am doing this in part because it was free to me and in part because I wanted to expand my knowledge base in tech and find a new job.
+3. Do you want what comes at the end of this journey? Yes
+4. Are you doing this for you? Yes
+
 ## Resources
+
+- [Pain and Suffering](https://codefellows.github.io/code-401-python-guide/curriculum/class-01/notes/pain_suffering)
+- [Begginers Guid to Big O](https://robbell.io/2009/06/a-beginners-guide-to-big-o-notation)
+- [Season 1, Episode 6, A friendly intro to Big O Notation](https://www.codenewbie.org/basecs/8)
+-[Video: Names and Values in Python](https://www.youtube.com/watch?v=_AEJHKGk9ns)
 
 ## Return to the Table of Contents
 
