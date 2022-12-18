@@ -27,16 +27,20 @@ Problem Fourteen
 ![Problem Set Fourteen](../401/SQLproblem14.png)
 
 Problem Fifteen
-![Problem Set Fifteen]()
+![Problem Set Fifteen](../401/SQLproblem15.png)
 
 Problem Sixteen
-![Problem Set Sixteen]()
+![Problem Set Sixteen](../401/SQLproblem16.png)
 
 Problem Seventeen
-![Problem Set Seventeen]()
+![Problem Set Seventeen](../401/SQLproblem17.png)
 
 Problem Eighteen
-![Problem Set Eighteen]()
+![Problem Set Eighteen](../401/SQLproblem18.png)
+
+### What I Learned
+
+I noticed that most of the commands in Python seem to all be capitalized.
 
 ## Resources
 
