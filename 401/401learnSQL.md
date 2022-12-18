@@ -21,10 +21,10 @@ Problem Six
 ![Problem Set Six](../401/SQLproblem6.png)
 
 Problem Thirteen
-![Problem Set Thirteen]()
+![Problem Set Thirteen](../401/SQLproblem13.png)
 
 Problem Fourteen
-![Problem Set Fourteen]()
+![Problem Set Fourteen](../401/SQLproblem14.png)
 
 Problem Fifteen
 ![Problem Set Fifteen]()
