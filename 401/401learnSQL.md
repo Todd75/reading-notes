@@ -40,7 +40,7 @@ Problem Eighteen
 
 ### What I Learned
 
-I noticed that most of the commands in Python seem to all be capitalized.
+I noticed that most of the commands in Python seem to all be capitalized. I didn't notice that much specific about the database except that you did not need to capitalize the names in the database as Python seemed to know what you meant. The data is all very similiar with SQL. 
 
 ## Resources
 
