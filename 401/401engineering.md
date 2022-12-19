@@ -8,7 +8,11 @@
 
 ## Resources
 
-[Act Like You Make $1000 an Hour](https://anthony-moore.medium.com/pretend-your-time-is-worth-1-000-hour-and-youll-become-100x-more-productive-6ab2302b8e8c)
+- [Act Like You Make $1000 an Hour](https://anthony-moore.medium.com/pretend-your-time-is-worth-1-000-hour-and-youll-become-100x-more-productive-6ab2302b8e8c)
+- [How to Think Like a Programmer](https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)
+- [Solving Problems](https://simpleprogrammer.com/solving-problems-breaking-it-down/)
+- [5 Whys](https://www.mindtools.com/a3mi00v/5-whys)
+- [Video: Super Mario Effect](https://www.youtube.com/watch?v=9vJRopau0g0)
 
 ## Return to the Table of Contents
 
