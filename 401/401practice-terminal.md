@@ -54,16 +54,39 @@ The manual pages are a set of pages that explain every command available on your
 
 `man <command to look up>`
 
+`man -k <search term>` is used to do a keyword search on manual pages.
 
+*This module was pretty useful as I hadn't used either of the commands that were introduced in it before. Being able to search a manual page actually seems pretty useful and is definately a needed skill.*
+
+![using man](../401/using-man.png)
+![using man -k](../401/using-man-k.png)
 
 ### File Manipulation
 
+Use mkdir followed by the directory name to creat a new directory and rmdir to remove a directory.
+
+The command touch creates a blank file.
+
+`cp [options] <source> <destination>` is used to copy a file.
+
+`mv [options] <source> <destination>` is used to move a file.
+
+`rm [options] <file>` is used to remove a file & if you need to remove a non empty direcoty use `rm -r`.
+
+*This section was particulally useful as moving, saving, creating, removing files is a neccisity for any programmer. I especiallty found the removing on non empty direcotories useful.*
+
+![File Manipulation](../401/file-manipulation.png)
+
 ### Cheat Sheet
+
+*This maybe the most usefull page of information yet as cheat sheets of commands are always appreciated. There are still a couple questions I have even with the cheet sheet. In 301 my command line showed what file I was working in and now it shows my username with a % after it. Which is not a big deal I can pwd and make sure I am in the file I want to be in but before it just displayed it for me.*
+
+![Cheat Sheet](../401/cheat-sheet.png)
 
 ## Resources
 
-- []()
-- []()
+- [Cheat Sheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)
+- [File Manipulation](https://ryanstutorials.net/linuxtutorial/filemanipulation.php)
 - [Manual Pages](https://ryanstutorials.net/linuxtutorial/manual.php)
 - [More About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 - [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
