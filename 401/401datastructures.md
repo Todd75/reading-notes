@@ -99,7 +99,7 @@ The name of the notation used to describe how efficient an algorithm is.
 
 4 Important Rules about Big O:
 
-- If you have different steps in algorithm, you add up those steps
+- If you have different steps in the algorithm, you add up those steps
 - Drop constants
 - If different inputs, use different variables to represent them
 - Drop non-dominant terms
