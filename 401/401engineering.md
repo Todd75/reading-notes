@@ -19,7 +19,6 @@ The 5 Whys... created by Sakichi Toyoda, founder of Toyota. The method is simple
 
 ![5 Whys](https://nova-live.imgix.net//image-79620b78-95ba-4934-b82e-58dfa6b079b1.jpg?q=60&fm=webp&fit=crop&fp-x=0.49999999999999994&crop=focalpoint&fp-y=0.5&rot=0&fp-z=1&h=855&w=681)
 
-
 ## Questions
 
 1. What’s the one thing I bring to this career (and a potential employer) that nobody else can? 
