@@ -1,5 +1,7 @@
 # 401 PreWork "Engineering Readings"
 
+Understand, Plan, Divide into smaller Problems, Stuck?, Practice ~ This was the premise of how to think like a programmer. 
+
 ## Questions
 
 1. What’s the one thing I bring to this career (and a potential employer) that nobody else can? 
