@@ -40,17 +40,31 @@ Linux is Case Sensitive.
 
 NO Spaces in Names.
 
-file command gives information on what type of file a file or directory is.
+file command gives information on what type of file a file or directory is. Linux is extensionless.
 
 ls -a shows the hidden files in the list as well.
 
+*This module showed us how to access hidden files and also gave us some syntax knowledge. Such as being case sensitive, everything is a file, and Linux is extensionless.*
+
+![About Files](../401/about-files.png)
+
 ### Manual Pages
+
+The manual pages are a set of pages that explain every command available on your system including what they do, the specifics of how you run them and what command line arguments they accept. Some of them are a little hard to get your head around but they are fairly consistent in their structure so once you get the hang of it it's not too bad. You invoke the manual pages with the following command:
+
+`man <command to look up>`
+
+
 
 ### File Manipulation
 
 ### Cheat Sheet
 
 ## Resources
+
+- []()
+- []()
+- [Manual Pages](https://ryanstutorials.net/linuxtutorial/manual.php)
 - [More About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 - [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
 - [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
